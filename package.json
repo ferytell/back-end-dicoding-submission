@@ -1,0 +1,15 @@
+{
+  "name": "newsubmission",
+  "version": "1.0.0",
+  "description": "I create this new submission because the previous submission is rejected",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ferytell",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0",
+    "nanoid": "^3.3.4"
+  }
+}
