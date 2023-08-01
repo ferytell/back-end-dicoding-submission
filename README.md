@@ -1,6 +1,6 @@
 # back-end-dicoding-submission
 
-##this is my first back end code\
+## this is back end submission code for dicoding\
 just copy to your machine\
 then put\
 ```npm install``` on terminal working directory\
